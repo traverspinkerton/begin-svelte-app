@@ -10,10 +10,10 @@
 </script>
 
 <main>
-  <h1>Hello {name}!</h1>
-  <h2>{message}</h2>
+  <h1>Howdy {name}!</h1>
+  <h2>{message.recipe}</h2>
   <h3>Change me!</h3>
-  <p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+  <p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps. Maybe?</p>
 </main>
 
 <style>
